@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">Calculador</string>
+    <string name="app_name">Datos de Peliculas</string>
+    <string name="guardar_amigo">Guardar amigo</string>
 </resources>
+
+
